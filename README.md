@@ -14,13 +14,13 @@ It also displays the current astronauts on board the ISS, along with the vessel.
 
 # TODO
 
-As an alpha game, the following features are being worked on and implemented:
+As an alpha product, the following features are being worked on and implemented:
 - Add different satellites.
 
 
 # Getting Started
 
-You can download the exe from the release section. It currently only works on Windows.
+You can download the py from the release section and run.
 
 ## Installing from source (Local)
 
@@ -35,7 +35,7 @@ You can download the exe from the release section. It currently only works on Wi
 Download the files from the repo and run them in python. That's it!
 # Alpha Version
 
-Currently, Mummygame is in an alpha stage so expect some bugs! :)
+Basic functionality is here, see [#TODO](#TODO) for things I want to add.
 
 # Support
 
